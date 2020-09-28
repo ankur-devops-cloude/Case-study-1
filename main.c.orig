@@ -19,10 +19,12 @@ Security patch()
 {
   //Security patch
 }
-
+<<<<<<< HEAD
 feature1()
 {
   //featurre1 added
 }
+=======
 
+>>>>>>> master
 }
