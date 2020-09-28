@@ -14,4 +14,8 @@ Security patch()
 {
   //Security patch
 }
+feature1()
+{
+  //featurre1 added
+}
 }
